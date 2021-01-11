@@ -1,9 +1,6 @@
 # homebrew-things
 
-This repository contains Homebrew casks and formula for open source applications/scripts
-of mine that get released.
-
-Why? To speed up Homebrew releases and so I can manage them myself.
+This repository contains Homebrew casks and formulas.
 
 ### Installing
 
