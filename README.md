@@ -6,6 +6,6 @@ This repository contains Homebrew casks and formulas.
 
 ```bash
 $ brew tap hkamran80/things
-$ brew cask install something
+$ brew cask install CASK_OR_FORMULA
 ```
 
