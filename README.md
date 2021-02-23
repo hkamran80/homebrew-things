@@ -6,6 +6,14 @@ This repository contains Homebrew casks and formulas.
 
 ```bash
 $ brew tap hkamran80/things
-$ brew cask install CASK_OR_FORMULA
+$ brew install --cask CASK
+$ brew install FORMULA
 ```
 
+### Available Things
+
+#### Casks
+
+-   [Filebot](https://github.com/barry-allen07/FB-Mod) 4.8.5 (last full, open-source release) ([official site](https://www.filebot.net/))
+-   [TinyMediaManager](https://www.tinymediamanager.org/) 4.0.7
+-   [QuickOCR](https://github.com/aheze/QuickOCR) 1.0.0
