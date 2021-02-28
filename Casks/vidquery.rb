@@ -1,6 +1,6 @@
 cask "vidquery" do
   version "1.0.0"
-  sha256 "7fd4ae675be2a11b26b651caca4b53a258aa1f8aaf582dd4c902b3f6a777238a"
+  sha256 "0b5826c200b7ac3535436f583a3ae7206659c3a35d67e9fc4b03fdca17240b35"
 
   url "https://github.com/aheze/VidQuery/releases/download/v#{version}/VidQuery.zip"
   name "VidQuery"
