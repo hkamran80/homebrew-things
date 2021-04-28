@@ -1,13 +1,13 @@
-cask "vidquery" do
-  version "1.0.0"
-  sha256 "0b5826c200b7ac3535436f583a3ae7206659c3a35d67e9fc4b03fdca17240b35"
+cask "schedules" do
+  version "0.7.0"
+  sha256 "447e84fccf87d98d2c4064481d1d17baad32ff9a71d8cb7820ddd88612120c56"
 
-  url "https://github.com/aheze/VidQuery/releases/download/v#{version}/VidQuery.zip"
-  name "VidQuery"
-  desc "A cross-platform app to search and discover movies."
-  homepage "https://github.com/aheze/VidQuery"
+  url "https://github.com/hkamran80/schedules-apple/releases/download/v#{version}/Schedules.zip"
+  name "Schedules"
+  desc "An app for schedules. Find out exactly how much time is remaining in a period or what the period is."
+  homepage "https://github.com/hkamran80/schedules-apple"
 
   depends_on macos: ">= :big_sur"
 
-  app "VidQuery.app"
+  app "Schedules.app"
 end
