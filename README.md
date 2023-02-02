@@ -16,8 +16,6 @@ brew tap hkamran80/things
   - `brew install hkamran80/things/filebot`
 - [QuickOCR](https://github.com/aheze/QuickOCR) 1.0.0
   - `brew install quickocr`
-- [Schedules](https://github.com/hkamran/schedules-apple) 0.7.0 ([official site](https://schedules.unisontech.org))
-  - `brew install schedules`
 - [Squirrel](https://github.com/aheze/Squirrel) 1.0.0
   - `brew install hkamran80/things/squirrel`
 - [TinyMediaManager](https://www.tinymediamanager.org/) 4.0.7
