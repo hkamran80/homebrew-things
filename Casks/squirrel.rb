@@ -1,13 +1,13 @@
 cask "squirrel" do
   version "1.0.0"
-  sha256 "4bc5f684b0471087caa673f3a2b352bceca4ebcd7f9cc927cf94f243a944bd50"
+  sha256 "b11f7c9e86194de1800c4ea2545b1d208ba6f0e4ed1bc25e4ba845e2746c0b1e"
   
   url "https://github.com/aheze/Squirrel/raw/main/Squirrel.zip"
   name "Squirrel"
   desc "A menu bar app that adds scrolling to the simulator"
   homepage "https://github.com/aheze/Squirrel"
   
-  depends_on macos: ">= :ventura"
+  depends_on macos: ">= :big_sur"
 
   app "Squirrel.app"
 end
