@@ -19,7 +19,7 @@ brew tap hkamran80/things
 - [QuickOCR](https://github.com/aheze/QuickOCR) 1.0.0
   - `brew install quickocr`
 - [Squirrel](https://github.com/aheze/Squirrel) 1.0.0
-  - `brew install hkamran80/things/squirrel`
+  - `brew install hkamran80/things/squirrel-for-simulator`
 - [TinyMediaManager](https://www.tinymediamanager.org/) 4.0.7
   - `brew install tinymediamanger`
 - VidQuery 1.0.0
